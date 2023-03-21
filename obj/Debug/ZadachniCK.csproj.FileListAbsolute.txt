@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\bin\Debug\ZadachniCK.exe.config
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\bin\Debug\ZadachniCK.exe
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\bin\Debug\ZadachniCK.pdb
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\obj\Debug\ZadachniCK.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\obj\Debug\ZadachniCK.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\obj\Debug\ZadachniCK.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\obj\Debug\ZadachniCK.exe
+C:\Users\admin\source\repos\ZadachniCK\ZadachniCK\obj\Debug\ZadachniCK.pdb
